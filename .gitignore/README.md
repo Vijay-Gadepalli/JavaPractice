@@ -1,3 +1,1 @@
-# JavaPractice
-repository for java practice
-hi
+This is a repository for self java practice
